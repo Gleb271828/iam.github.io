@@ -1,0 +1,27 @@
+a {
+    color:blue;
+	font-size:24px;
+}
+
+table{
+	color: red;
+
+    color:rgba(0,255,0,1);
+}
+
+.sportcar{
+  color:#F40029;
+  background-color:#F40029
+  border: 1000 px solid #F40029;
+  font-size: 24px;
+}
+	 
+.roskash{
+  color:#6091F4;
+}
+
+.Gleb{
+   color:#сс0000;
+   background-color:#F2F1FB;
+   border: 1px solid #4CFB31;
+}
